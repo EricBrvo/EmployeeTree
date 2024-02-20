@@ -13,11 +13,11 @@
 int main(int argc, char **argv){
 
 
-    //std::string orgchartPath = argv[1];
-   // std::string testFile = argv[2];
+    std::string orgchartPath = argv[1];
+    std::string testFile = argv[2];
 
-    std::string orgchartPath = "/Users/ericbravo/Desktop/orgchart copy.txt";
-    std::string testFile = "/Users/ericbravo/Desktop/testfile.txt";
+    //std::string orgchartPath = "/Users/ericbravo/Desktop/orgchart copy.txt";
+    //std::string testFile = "/Users/ericbravo/Desktop/testfile.txt";
 
 
 
